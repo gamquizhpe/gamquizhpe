@@ -11,7 +11,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Lenguaje de programacion
 
 <p align="left"> 
   &emsp;
@@ -48,7 +48,7 @@
 
 <br/>
 
-## 🙋‍♂️ Let's Connect
+## 🙋‍♂️ Mis Redes Sociales
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
