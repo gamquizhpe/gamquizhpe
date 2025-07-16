@@ -59,7 +59,6 @@ alt="Instagram"/></a>
 
 <hr/>
 
-* Last Edited on: 16/07/2025
 
 
 
