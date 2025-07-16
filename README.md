@@ -48,8 +48,6 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
