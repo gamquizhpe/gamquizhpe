@@ -52,15 +52,14 @@
 
    </a>
 	<a href="https://www.facebook.com/share/19b4WbRGV7/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" 
+	<a href="https://www.instagram.com/gaboale0912?igsh=MTg5MzByeDhkZWxycQ=="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" 
 alt="Instagram"/></a>
 
 </p>
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+* Last Edited on: 16/07/2025
 
 
 
