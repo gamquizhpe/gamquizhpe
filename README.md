@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Me+Llamo+Gabriel+y+Me+Gusta+la+programacion&center=true&width=500&height=60"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Soy estudiante de Primer Nivel en el Instituto Yavirac y estudio programacion de software. Me gusta aprender, innovar y experimentar sobre la programacion. Soy una persona sociable, a quien le gusta asumir nuevos retos y aprender nuevas habilidades.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
@@ -28,7 +28,7 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
  </p>
   
-### 👉Graphic Designing
+### 👉Diseño Grafico
 <p align="left">
   &emsp;
   	
@@ -38,7 +38,7 @@
   </a>
  </p>
 
- ### 👉 Software & Tools
+ ### 👉 Software & herramienta
  
 <p>
   &emsp;
